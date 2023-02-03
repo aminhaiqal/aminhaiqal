@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **aminhaiqal/aminhaiqal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+<br/>
 <a href="https://app.daily.dev/aminhaiqal"><img src="https://api.daily.dev/devcards/586a079c318a48be9ea2de4b18031ad6.png?r=v4a" width="300" align="right" alt="amin haiqal's Dev Card"/></a>
