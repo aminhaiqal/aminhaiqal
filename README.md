@@ -1,9 +1,7 @@
 ### Hi there 👋
 I'm **amin haiqal**.
 <br/>
-![
 "As a software engineering student, I am driven to deepen my understanding of software architecture and design patterns. I am constantly seeking new opportunities to learn and grow in these areas, and I have a strong interest in a variety of programming languages. On GitHub, you'll find examples of my work and projects that showcase my passion for software development and my commitment to continuously improving my skills."
-]
 <!--
 **aminhaiqal/aminhaiqal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
