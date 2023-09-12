@@ -29,7 +29,7 @@ Let's make the web and mobile world more beautiful together! 🌈👩‍💻
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aminhaiqal&repo=quickride&theme=dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aminhaiqal&repo=quickride&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SulaimanYaacob&repo=Book-Tracker&theme=dark" />
 </a>
 
 <!--
