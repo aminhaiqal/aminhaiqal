@@ -25,12 +25,6 @@ Let's make the web and mobile world more beautiful together! 🌈👩‍💻
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aminhaiqal&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aminhaiqal&repo=quickride&theme=dark" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SulaimanYaacob&repo=Book-Tracker&theme=dark" />
-</a>
 
 <!--
 **aminhaiqal/aminhaiqal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
