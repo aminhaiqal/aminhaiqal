@@ -1,4 +1,10 @@
 <!--Header-->
+<div align="center">
+  <a href="https://github.com/aminhaiqal/aminhaiqal/blob/main/Pixel%20Art%20Gallery.gif">
+    <img src="https://github.com/aminhaiqal/aminhaiqal/blob/main/Pixel%20Art%20Gallery.gif" alt="Pixel Art Gallery" width="500" height="300">
+  </a>
+</div>
+
 
 ### <div align="center">Hi there 👋 I'm Amin Haiqal 🧑‍💻</div>
 
