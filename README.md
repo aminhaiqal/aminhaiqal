@@ -1,7 +1,7 @@
 <!--Header-->
 <div align="center">
-  <a href="https://github.com/aminhaiqal/aminhaiqal/blob/main/Pixel%20Art%20Gallery.gif">
-    <img src="https://github.com/aminhaiqal/aminhaiqal/blob/main/Pixel%20Art%20Gallery.gif" alt="Pixel Art Gallery" width="500" height="300">
+  <a href="https://github.com/aminhaiqal/aminhaiqal/blob/main/heather%20_%20nakamoto%20yuta%20-%20chapter%20four.gif">
+    <img src="https://github.com/aminhaiqal/aminhaiqal/blob/main/heather%20_%20nakamoto%20yuta%20-%20chapter%20four.gif" alt="Pixel Art Gallery" width="100%" height="auto">
   </a>
 </div>
 
