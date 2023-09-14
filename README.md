@@ -2,8 +2,15 @@
 
 ### <div align="center">Hi there 👋 I'm Amin Haiqal 🧑‍💻</div>
 
-[![Dribbble](https://badgen.net/badge/Dribbble/Follow%20Me/red?icon=dribbble)](https://dribbble.com/amin_haiqal)
-[![LinkedIn](https://badgen.net/badge/LinkedIn/Connect/blue?icon=linkedin)](https://www.linkedin.com/in/your-linkedin-profile/)
+<p align="center">
+  <a href="https://dribbble.com/x">
+    <img src="https://badgen.net/badge/Dribbble/Follow%20Me/red?icon=dribbble" alt="Dribbble" />
+  </a>
+  <a href="https://www.linkedin.com/in/x/">
+    <img src="https://badgen.net/badge/LinkedIn/Connect/blue?icon=linkedin" alt="LinkedIn" />
+  </a>
+</p>
+
 
 <div align="center"> a third-year software engineering student from Universiti Teknology Malaysia, and I'm absolutely passionate about front-end development. I get a kick out of crafting user-friendly systems for both mobile and web platforms. 🌐📱 My journey in the world of programming has been largely self-taught, driven by my insatiable curiosity and love for creating beautiful user interfaces and seamless experiences. 😊 When it comes to my tech stack, I'm a big fan of React for web development and Flutter for mobile app development. These tools not only empower me to bring my ideas to life but also align perfectly with my dedication to providing top-notch user experiences. </div>
 
