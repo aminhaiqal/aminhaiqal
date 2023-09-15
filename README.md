@@ -24,7 +24,7 @@
 <!--Skills-->
 - 🔭 Right now, I'm diving deep into a project that aims to improve transportation option for studen by student - Quickride. It's a thrilling adventure, and I'm excited to see where it takes me.
 
-- 🌱 I'm currently learning Data Science, and it's an exciting journey filled with endless possibilities and challenges. Data Science is like a vast ocean, and I'm diving in to explore its depths.
+- 🌱 I'm currently learning Data Science & Algorithm, and it's an exciting journey filled with endless possibilities and challenges. Data Science is like a vast ocean, and I'm diving in to explore its depths.
 
 - 👯 I'm always open to collaboration and new ideas. If you have a project or idea that needs a passionate front-end developer, count me in! Let's create something amazing together.
 
