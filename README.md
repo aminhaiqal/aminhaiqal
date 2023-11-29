@@ -45,17 +45,6 @@ Let's make the web and mobile world more beautiful together! 🌈👩‍💻
     <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=aminhaiqal&layout=compact&langs_count=8&card_width=320" />
 </div>
 
-#
-
-<div align="center">
-  </a>
-  <a href="https://leetcode.com/aminhaiqal">
-  <img src="https://leetcard.jacoblin.cool/aminhaiqal" alt="Leetcode Stats">
-</a>
-</div>
-  
-#
-
 <!--
 **aminhaiqal/aminhaiqal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
