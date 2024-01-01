@@ -8,7 +8,7 @@
 ### <div align="center">Hi there 👋 I'm Amin Haiqal 🧑‍💻</div>
 
 <p align="center">
-  <a href="https://dribbble.com/x">
+  <a href="https://dribbble.com/amin_haiqal">
     <img src="https://badgen.net/badge/Dribbble/Follow%20Me/red?icon=dribbble" alt="Dribbble" />
   </a>
   <a href="https://www.linkedin.com/in/x/">
