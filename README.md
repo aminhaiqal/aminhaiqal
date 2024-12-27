@@ -5,36 +5,45 @@
   </a>
 </div>
 
-### <div align="center">Hi there 👋 I'm Amin Haiqal 🧑‍💻</div>
+### <div align="center">👋 Hey there!</div>
 
 <p align="center">
   <a href="https://dribbble.com/amin_haiqal">
     <img src="https://badgen.net/badge/Dribbble/Follow%20Me/red?icon=dribbble" alt="Dribbble" />
   </a>
-  <a href="https://www.linkedin.com/in/x/">
+  <a href="https://www.linkedin.com/in/amin-haiqal/">
     <img src="https://badgen.net/badge/LinkedIn/Connect/blue?icon=linkedin" alt="LinkedIn" />
   </a>
 </p>
 
 #
 
-<div align="center"> a third-year software engineering student from Universiti Teknology Malaysia, and I'm absolutely passionate about front-end development. I get a kick out of crafting user-friendly systems for both mobile and web platforms. 🌐📱 My journey in the world of programming has been largely self-taught, driven by my insatiable curiosity and love for creating beautiful user interfaces and seamless experiences. 😊 When it comes to my tech stack, I'm a big fan of React for web development and Flutter for mobile app development. These tools not only empower me to bring my ideas to life but also align perfectly with my dedication to providing top-notch user experiences. </div>
+<div align="center">I’m a passionate full-stack developer who loves solving real-world challenges with tech. Whether it’s creating smarter systems or building user-friendly platforms, I’m all about crafting solutions that make an impact.</div>
 
 #
 <!--Skills-->
-- 🔭 Right now, I'm diving deep into a project that aims to improve transportation option for studen by student - Quickride. It's a thrilling adventure, and I'm excited to see where it takes me.
+### ✨ What I’ve Been Up To:
+- Built an **automated legislative bill tracking system** during my time at ARMO, cutting processing time from hours to minutes—talk about saving the day!  
+- Created a **full-stack web platform** that made legislative tracking and stakeholder engagement a breeze.  
+- Designed **cloud-based solutions** on AWS that handled thousands of daily requests, all while keeping things fast, reliable, and smooth even under pressure.  
 
-- 🌱 I'm currently learning Data Science & Algorithm, and it's an exciting journey filled with endless possibilities and challenges. Data Science is like a vast ocean, and I'm diving in to explore its depths.
+#
 
-- 👯 I'm always open to collaboration and new ideas. If you have a project or idea that needs a passionate front-end developer, count me in! Let's create something amazing together.
+### 💻 My Toolbox Includes:
+Python, TypeScript, Java, Docker, and a knack for building efficient, scalable apps that just work. I love tackling tricky problems, like automating manual processes or handling huge data loads, and turning them into elegant solutions.  
 
-- 💬 Feel free to ask me anything related to front-end development, UI/UX principles, or my favorite tech stack, which includes React and Flutter. I'm here to share my personal knowledge and insights.
+#
 
-- 📫 You can reach out to me via email at aminhaiqal15@gmail.com. I'm always up for a chat or discussing exciting opportunities.
+### 🌟 What Gets Me Excited:
+Technology is my playground, and I’m always up for exploring how we can use it to create something meaningful. Whether it’s pushing boundaries or finding innovative ways to solve problems, I’m all in.
 
-- ⚡ Fun fact: I love 🖥️coding, 📚reading, and 🎨designing
+#
 
-Let's make the web and mobile world more beautiful together! 🌈👩‍💻 
+### ⚡ Need a Frontend Hero? Or a Full-Stack Sidekick?  
+If you’re looking for someone who can bring your ideas to life with **stunning user interfaces** or **seamless functionality**, I’m your person!  
+Let’s team up to create something truly remarkable. Feel free to reach out—I’m always excited to collaborate on impactful projects! 🚀
+
+Let’s connect and see how we can build something amazing together! 🚀  
 
 #
 <div align="center">
