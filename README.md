@@ -8,9 +8,6 @@
 ### <div align="center">👋 Hey there!</div>
 
 <p align="center">
-  <a href="https://dribbble.com/amin_haiqal">
-    <img src="https://badgen.net/badge/Dribbble/Follow%20Me/red?icon=dribbble" alt="Dribbble" />
-  </a>
   <a href="https://www.linkedin.com/in/amin-haiqal/">
     <img src="https://badgen.net/badge/LinkedIn/Connect/blue?icon=linkedin" alt="LinkedIn" />
   </a>
