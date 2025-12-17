@@ -1,70 +1,61 @@
-<!--Header-->
+# Hey, I'm Amin! 👋
+
 <div align="center">
-  <a href="https://github.com/aminhaiqal/aminhaiqal/blob/main/heather%20_%20nakamoto%20yuta%20-%20chapter%20four.gif">
-    <img src="https://github.com/aminhaiqal/aminhaiqal/blob/main/heather%20_%20nakamoto%20yuta%20-%20chapter%20four.gif" alt="Pixel Art Gallery" width="100%" height="auto">
-  </a>
-</div>
-
-### <div align="center">👋 Hey there!</div>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/amin-haiqal/">
-    <img src="https://badgen.net/badge/LinkedIn/Connect/blue?icon=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-</p>
-
-#
-
-<div align="center">I’m a passionate full-stack developer who loves solving real-world challenges with tech. Whether it’s creating smarter systems or building user-friendly platforms, I’m all about crafting solutions that make an impact.</div>
-
-#
-<!--Skills-->
-### ✨ What I’ve Been Up To:
-- Built an **automated legislative bill tracking system** during my time at ARMO, cutting processing time from hours to minutes—talk about saving the day!  
-- Created a **full-stack web platform** that made legislative tracking and stakeholder engagement a breeze.  
-- Designed **cloud-based solutions** on AWS that handled thousands of daily requests, all while keeping things fast, reliable, and smooth even under pressure.  
-
-#
-
-### 💻 My Toolbox Includes:
-Python, TypeScript, Java, Docker, and a knack for building efficient, scalable apps that just work. I love tackling tricky problems, like automating manual processes or handling huge data loads, and turning them into elegant solutions.  
-
-#
-
-### 🌟 What Gets Me Excited:
-Technology is my playground, and I’m always up for exploring how we can use it to create something meaningful. Whether it’s pushing boundaries or finding innovative ways to solve problems, I’m all in.
-
-#
-
-### ⚡ Need a Frontend Hero? Or a Full-Stack Sidekick?  
-If you’re looking for someone who can bring your ideas to life with **stunning user interfaces** or **seamless functionality**, I’m your person!  
-Let’s team up to create something truly remarkable. Feel free to reach out—I’m always excited to collaborate on impactful projects! 🚀
-
-Let’s connect and see how we can build something amazing together! 🚀  
-
-#
-<div align="center">
-  <!--
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 src="https://github-readme-stats.vercel.app/api?username=aminhaiqal&show_icons=true&theme=dark" />
-  </a>
-  -->
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=aminhaiqal&layout=compact&langs_count=8&card_width=320" />
 </div>
 
-<!--
-**aminhaiqal/aminhaiqal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Builder. Learner. Problem Solver.
 
-Here are some ideas to get you started:
+I don't just write code—I build things. Whether it's automating tedious workflows, crafting scalable systems, or experimenting with new languages, I'm driven by the joy of creating solutions that matter.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...-->
-<!--<a href="https://app.daily.dev/aminhaiqal"><img src="https://api.daily.dev/devcards/586a079c318a48be9ea2de4b18031ad6.png?r=v4a" width="200" align="right" alt="amin haiqal's Dev Card"/></a>-->
+### 🚀 What I'm Building
 
+Right now, I'm in my **learning era**—diving deep into **Go** before making the leap to **Rust**. Because why stick to one language when you can master them all?
+
+I believe in:
+- **Building in public** and sharing what I learn
+- **Solving real problems** with elegant code
+- **Experimenting fearlessly** with new technologies
+- **Shipping fast**, iterating faster
+
+### 💡 Recent Wins
+
+- **Automated legislative bill tracking** that slashed processing time from hours to minutes at ARMO
+- **Full-stack web platforms** that handle thousands of daily requests without breaking a sweat
+- **Cloud-based solutions on AWS** that scale effortlessly and stay reliable under pressure
+
+### 🧰 Languages & Tools I Wield
+
+**Currently mastering:**
+- Go (my current obsession)
+- Python, TypeScript, Java
+- Docker, AWS, and the cloud ecosystem
+
+**Next on the radar:**
+- Rust (the final boss)
+
+### 🌱 Philosophy
+
+Technology evolves. I evolve with it. Every project is a chance to learn something new, push boundaries, and build something people actually want to use.
+
+I'm not here to just maintain codebases—I'm here to **ship products**, **solve problems**, and **make an impact**.
+
+### 🤝 Let's Build Together
+
+Got an idea? A challenging problem? Or just want to geek out about tech? I'm always down to collaborate on projects that push the envelope.
+
+**Drop me a message**—let's turn ideas into reality.
+
+---
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=aminhaiqal&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
+  </a>
+</div>
+
+<div align="center">
+  <sub>Always learning. Always building. Always shipping. 🚢</sub>
+</div>
